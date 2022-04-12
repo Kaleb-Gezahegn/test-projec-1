@@ -4,7 +4,7 @@
 
 Submitted by: **Kaleb Getu Gezahegn**
 
-Time spent: **2** hours spent in total
+Time spent: **2.5** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
@@ -45,16 +45,19 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+- no outside sources used.
+3. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
+- I think the most challenging part for me was understanding the syntax of each of the programming languages. Although the logic is pretty easy to understand and similar to other languages I know such as Java, it still took me to understand the specific syntax of the languages, especially HTML. Having no prior experience in HTML and web development, I didn't really understand what each rule was trying to achieve because of this issue with familiarity. This led me to read through each line of code and the references given to fully understand what was being executed. Applying my previous knowledge in reading through code and the written pseudo code, I was able to quickly pick up on what was being executed.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+- A key question I have would be the transfer of knowledge in web development to communities that have accessibility issues. As a student from Ethiopia, any class topic learned and knowledge applied makes me think of the students back home interested in this topic but don’t have resources such as good internet or even computers. How can we make web development a topic that can be taught to people regardless of their educational  background and the resources available to them? In addition, how can we utilize web development to better assist various communities with various needs. This could mean that these communities have enough accessibility to use these skills to develop websites themselves for themselves.  
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+- Adding additional functions would probably be the more significant changes I would make. One additional feature would be focusing more on the audio aspect of this project. This could mean allowing the user to utilize the current interface to create and record music. This can be done by allowing the user to upload different beats that will then be broken down and divided amongst the 4 buttons. In addition, I would also allow the user to have audio only memorization in order to press the appropriate buttons. This will allow the user to have agency on how they want to play the game.
 
 
 
