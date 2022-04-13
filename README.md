@@ -63,12 +63,12 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording ]https://macalester.zoom.us/rec/play/wBm3stZRS-SeCVKSDR4tB1UYQhNHDSUQIsNlKN8nXF7baMWPOcPdqJ48D4jeFHW_cdFDs_o4A2oJ0-3h.-08hllpC8MYZpPxT?startTime=1649789236000&_x_zm_rtaid=7f6E65ohTWK7WnYIJ5SrIg.1649807871779.73143a431561981232eed8e272d18a7f&_x_zm_rhtaid=644
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Kaleb Getu Gezahegn]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
